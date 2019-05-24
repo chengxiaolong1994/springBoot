@@ -1,4 +1,5 @@
 love
-lika
+like
 apple
+dev
 haha
